@@ -1,130 +1,127 @@
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Mohammed Mekky</h1>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%" />
+<p align="center">
+Junior Software Developer | C++ & C# Developer
+</p>
 
-# Hi 👋, I'm Mohamed Mekky
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Developer;C%23+Developer;ADO.NET+Learner;Database+Designer;Problem+Solver&center=true&width=500&height=45">
+</p>
 
-### Junior Software Developer | C++ & C# Developer
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+Software+Engineering;C%2B%2B+Developer;C%23+%26+ADO.NET+Learner;Database+Design+Enthusiast;Always+Building+Projects" />
+## 👨‍💻 About Me
 
-<br>
+🎓 Software Engineering Student</br>
+💻 Passionate about Backend & Desktop Development</br>
+🚀 Interested in Software Engineering & Database Systems</br>
+🧠 Strong focus on Problem Solving & Algorithms</br>
+📚 Learning English alongside programming</br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Moh98Mekky&style=flat&color=blue)
+---
 
+## 🛠️ Skills & Tools
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
+![ERD](https://img.shields.io/badge/ERD-FF9800?style=for-the-badge)
+![Relational Schema](https://img.shields.io/badge/Relational%20Schema-795548?style=for-the-badge)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-# 🚀 About Me
-
-```cpp
-class Mohammed
-{
-public:
-
-    string Goal = "Become a Professional Software Engineer";
-
-    vector<string> Skills =
-    {
-        "C++",
-        "C#",
-        "OOP",
-        "Data Structures",
-        "Algorithms",
-        "Problem Solving",
-        "SQL Server",
-        "ADO.NET",
-        "Database Design",
-        "ERD",
-        "Relational Schema"
-    };
-
-    void KeepLearning()
-    {
-        while(true)
-        {
-            Learn();
-            Practice();
-            BuildProjects();
-        }
-    }
-};
-```
-
----
-
-# 🛠️ Languages and Tools
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat)
-![OOP](https://img.shields.io/badge/OOP-blue?style=flat)
-![Data Structures](https://img.shields.io/badge/Data_Structures-orange?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-red?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![CodeBlocks](https://img.shields.io/badge/CodeBlocks-black?style=flat)
-
----
-
-# 📚 Currently Learning
+# 🚀 Current Learning
 
 - Advanced Data Structures
 - ADO.NET
-- Database Projects
 - SQL Server
+- Database Design
 - Software Engineering Concepts
 - Problem Solving
 
 ---
 
-# 🗂️ Projects
+# 📂 Projects
 
-## 📌 Management System Project
-> Desktop application using C# and SQL Server.
-
-## 📌 Bank System Project
+## 📌 Bank System
 > Console application using C++ and OOP concepts.
 
+## 📌 Management System
+> Desktop application using C# and SQL Server.
+
 ## 📌 Database Design Projects
-> Creating ERD & Relational Schema for database systems.
+> Designing ERD & Relational Schema for database systems.
 
 ## 📌 Data Structures Implementations
 > Implementing linked lists, stacks, queues, and more using C++.
 
 ---
 
-# 📈 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Moh98Mekky&theme=tokyonight&border_radius=4.6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moh98Mekky&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh98Mekky&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Moh98Mekky?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=Moh98Mekky&style=for-the-badge&color=1f6feb" />
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moh98Mekky&theme=tokyo-night">
+</p>
+
+---
+
+<h2 align="center">💬 Favorite Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="55%"/>
+</p>
+
+---
 
 <div align="center">
+<h2> 🔗 Connect With Me </h2>
+    
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mekky-87616b400/)
+    
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Moh98Mekky)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moh98Mekky&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh98Mekky&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
-
-[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moh98Mekky&theme=tokyo-night)](https://github.com/Moh98Mekky)
-
----
-
-
-# 🌐 Connect With Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Moh98Mekky)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mekky-87616b400/)
-
-
-<div align="center">
-
-### ⚡ “Consistency beats motivation.”
-
-</div>
+<h3 align="center">⚡ Consistency beats motivation.</h3>
